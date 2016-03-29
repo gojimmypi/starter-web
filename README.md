@@ -12,6 +12,10 @@ This is some introduction text
 
 Sample website with plenty of files for demos
 
+More purpose text
+
 ## Deployment
+
+Some deployment text
 
 ## How to contribute
