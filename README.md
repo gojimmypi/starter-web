@@ -6,6 +6,8 @@ This is a simple example.
 
 ##Introduction
 
+This is some introduction text
+
 ## Purpose
 
 Sample website with plenty of files for demos
