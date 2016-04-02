@@ -3,11 +3,12 @@ some info here
 
 ## Introduction
 
-more test here
+more testing here
 
 ## Purpose
 more purpose text
 
 ## Deployment
+Post git-a edits here
 
 ## How To Contribute
