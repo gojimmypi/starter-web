@@ -19,3 +19,7 @@ More purpose text
 Some deployment text
 
 ## How to contribute
+
+### Copyright
+
+copyright
