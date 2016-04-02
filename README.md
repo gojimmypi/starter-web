@@ -22,4 +22,5 @@ Some deployment text
 
 ### Copyright
 
-copyright
+copyright 2016
+wow
